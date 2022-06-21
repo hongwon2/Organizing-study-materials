@@ -1,2 +1,4 @@
-# TIL
-공부 한것을 간략하게 정리합니다.
+# Organizing-study-materials
+읽거나 공부한 자료를 모아둡니다.
+
+
