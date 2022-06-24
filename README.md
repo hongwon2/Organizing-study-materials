@@ -8,6 +8,7 @@
 
 ## 데이터 분석
 - [RFM 분석](https://velog.io/@ckb8765/RFM-%EB%B6%84%EC%84%9D-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%95%EB%A6%AC-%EA%B8%80-US-E-Commerce-Records-2020)
+- [참고 블로그(](https://ud803.github.io/blog/tags/#%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
 
 ## SQL
 - [solvesql - sql 연습](https://solvesql.com/problems/)
