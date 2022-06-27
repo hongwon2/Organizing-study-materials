@@ -12,3 +12,6 @@
 
 ## SQL
 - [solvesql - sql 연습](https://solvesql.com/problems/)
+
+## 알고리즘
+- [백준 알고리즘 순서](https://velog.io/@dragoocho/%EB%B0%B1%EC%A4%80-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A1%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
